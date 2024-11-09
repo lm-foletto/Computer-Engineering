@@ -5,6 +5,7 @@ Este repositório contém projetos desenvolvidos na disciplina de Deep Learning.
 As principais bibliotecas utilizadas nos projetos são:
 - TensorFlow
 - Scikit-learn
+- PyTorch
 - Pandas
 - NumPy
 - Matplotlib
@@ -25,3 +26,6 @@ Word2Vec é um algoritmo de aprendizado de máquina utilizado para representar p
 
 ### Descida do Gradiente
 A Descida do Gradiente é um algoritmo de otimização utilizado para minimizar funções de custo em modelos de aprendizado de máquina. Ele ajusta iterativamente os parâmetros do modelo na direção do gradiente negativo da função de custo, visando encontrar o ponto de mínimo global ou local.
+
+### Algoritmos Genéticos
+Algoritmos Genéticos são métodos de otimização inspirados no processo de seleção natural. Eles são utilizados para encontrar soluções aproximadas para problemas complexos através de operações como seleção, crossover e mutação. Esses algoritmos são particularmente úteis em problemas onde o espaço de busca é vasto e não é possível utilizar métodos exatos de otimização.
