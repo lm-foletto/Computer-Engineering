@@ -4,10 +4,9 @@ Este repositório contém projetos desenvolvidos na disciplina de Deep Learning.
 ## Bibliotecas
 As principais bibliotecas utilizadas nos projetos são:
 - TensorFlow
-- Keras
-- PyTorch
-- NumPy
+- Scikit-learn
 - Pandas
+- NumPy
 - Matplotlib
 
 ## Algoritmos Implementados
@@ -26,11 +25,3 @@ Word2Vec é um algoritmo de aprendizado de máquina utilizado para representar p
 
 ### Descida do Gradiente
 A Descida do Gradiente é um algoritmo de otimização utilizado para minimizar funções de custo em modelos de aprendizado de máquina. Ele ajusta iterativamente os parâmetros do modelo na direção do gradiente negativo da função de custo, visando encontrar o ponto de mínimo global ou local.
-
-## Exemplos de Notebooks
-- `image_classification.ipynb`: Classificação de imagens utilizando CNNs.
-- `text_generation.ipynb`: Geração de texto com RNNs.
-- `object_detection.ipynb`: Detecção de objetos com YOLO.
-- `style_transfer.ipynb`: Transferência de estilo entre imagens.
-
-Explore os notebooks para entender melhor como cada algoritmo foi implementado e os resultados obtidos.
