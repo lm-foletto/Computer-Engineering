@@ -9,8 +9,6 @@ Este repositório contém vários projetos e implementações relacionados a dee
     - [Projetos de Métodos Numéricos](#projetos-de-métodos-numéricos)
 - [Instalação](#instalação)
 - [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Introdução
 Este repositório é uma coleção de projetos que demonstram a aplicação de técnicas de deep learning e métodos numéricos. Cada projeto é autônomo e inclui todo o código e documentação necessários.
