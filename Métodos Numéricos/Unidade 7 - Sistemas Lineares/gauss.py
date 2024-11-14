@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 11 15:33:55 2017
-
-@author: buriol
-"""
 import numpy as np
 
 M = np.array([[3.,0.,1.,1.],

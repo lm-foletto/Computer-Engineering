@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 26 15:55:27 2016
-
-@author: buriol
-"""
 from math import cos
 
 # Método das aproximações sucessivas (ou ponto fixo)

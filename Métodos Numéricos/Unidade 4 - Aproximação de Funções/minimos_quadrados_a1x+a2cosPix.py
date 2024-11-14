@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 10 15:57:40 2016
-
-@author: buriol
-"""
 import numpy as np
 from scipy.linalg import solve
 import matplotlib.pyplot as plt

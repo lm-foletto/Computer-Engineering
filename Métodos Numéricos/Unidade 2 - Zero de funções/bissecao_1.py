@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 12 17:40:47 2016
-
-@author: buriol
-"""
 import math
 
 # Método da bisseção

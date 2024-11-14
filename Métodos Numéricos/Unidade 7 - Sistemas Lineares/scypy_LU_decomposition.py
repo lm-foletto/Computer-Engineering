@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep  8 21:28:55 2016
-
-@author: buriol
-"""
 import scipy
 import scipy.linalg
 

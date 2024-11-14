@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 26 14:54:30 2016
-
-@author: buriol
-"""
-
 A = [[2,0,0],
      [1,4,0],
      [1,1,1]] 

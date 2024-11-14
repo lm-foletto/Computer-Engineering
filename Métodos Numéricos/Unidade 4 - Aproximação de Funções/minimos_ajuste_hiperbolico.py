@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun  1 16:29:25 2017
-
-@author: buriol
-"""
-
 import numpy as np
 from scipy.linalg import solve
 import matplotlib.pyplot as plt

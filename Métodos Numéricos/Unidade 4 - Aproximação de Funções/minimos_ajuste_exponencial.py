@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun  1 16:52:12 2017
-
-@author: buriol
-"""
 import math
 import numpy as np
 from scipy.linalg import solve

@@ -16,14 +16,16 @@ Este repositório é uma coleção de projetos que demonstram a aplicação de t
 ## Projetos
 
 ### Projetos de Deep Learning
-1. **Classificação de Imagens**: Implementação de vários modelos de classificação de imagens usando TensorFlow e PyTorch.
-2. **Processamento de Linguagem Natural**: Projetos envolvendo classificação de texto, análise de sentimento e modelagem de linguagem.
-3. **Redes Adversárias Generativas (GANs)**: Implementações de GANs para geração de imagens e outras tarefas.
+1. **Fuzzy Logic**: Implementação de sistemas de lógica fuzzy para classificação e controle.
+2. **Algoritmos Genéticos**: Aplicação de algoritmos genéticos para otimização de hiperparâmetros e arquitetura de redes neurais.
+3. **Backpropagation**: Implementação detalhada do algoritmo de backpropagation para treinamento de redes neurais.
+4. **Redes Neurais Convolucionais (CNNs)**: Projetos utilizando CNNs para tarefas de visão computacional como detecção de objetos e segmentação de imagens.
 
 ### Projetos de Métodos Numéricos
-1. **Algoritmos de Encontrar Raízes**: Implementação de algoritmos como Newton-Raphson, método da Bisseção e método da Secante.
-2. **Integração Numérica**: Projetos envolvendo técnicas como regra do Trapézio, regra de Simpson e integração de Monte Carlo.
-3. **Equações Diferenciais**: Resolução de equações diferenciais ordinárias e parciais usando métodos numéricos.
+1. **Zero de Funções**: Métodos para encontrar zeros de funções, incluindo método da Bisseção, método da Secante e método de Newton.
+2. **Interpolação e Aproximações de Funções**: Técnicas de interpolação polinomial, splines cúbicos e aproximação de funções usando séries de Fourier e polinômios de Chebyshev.
+3. **Sistemas Lineares**: Solução de sistemas de equações lineares utilizando métodos como eliminação de Gauss, decomposição LU e métodos iterativos.
+
 
 ## Uso
 Cada projeto contém seu próprio conjunto de instruções sobre como executar o código. Por favor, consulte o arquivo README dentro do diretório de cada projeto para obter informações detalhadas sobre o uso.

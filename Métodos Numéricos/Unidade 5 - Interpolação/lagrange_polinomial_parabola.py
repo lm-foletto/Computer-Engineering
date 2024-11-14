@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 11 14:12:40 2016
-@author: buriol
-"""
 import matplotlib.pyplot as plt
 
 # Dados do exercicio

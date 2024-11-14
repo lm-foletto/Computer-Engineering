@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May  6 01:04:37 2016
-@author: buriol
-"""
 # Importando a biblioteca padrao para funcoes matematicas
 # import math
 # Funcoes trigonometricas podem ser chamadas fazendo math.cos(x) ou math.sin(x)

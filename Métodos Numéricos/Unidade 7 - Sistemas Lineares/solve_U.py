@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 26 14:54:30 2016
-
-@author: buriol
-"""
-
 #funcao para resolver um sistema triangular superior
 def solve(U, y):
     n = len(U)-1       #os indices correm de 0 ate n-1

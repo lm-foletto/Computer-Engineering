@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 17 15:06:52 2016
-
-@author: buriol
-"""
 import numpy as np
 # Dados do enunciado
 x0 = 1.0

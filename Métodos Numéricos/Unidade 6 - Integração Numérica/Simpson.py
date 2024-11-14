@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 16 19:08:23 2016
-
-@author: buriol
-"""
-
 import numpy as np
 h = 0.25
 

@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 10 15:57:40 2016
-
-@author: buriol
-"""
-
 import matplotlib.pyplot as plt
 
 X = [183., 173., 168., 188., 158., 163., 193., 163., 178.]
